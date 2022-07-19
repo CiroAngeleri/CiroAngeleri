@@ -17,9 +17,7 @@ I'm a Fullstack developer in love with [React](https://reactjs.org) and [JavaScr
 <br />
 
 ## What i'm up to
-
-- 🔭 I’m currently working @ [TradeHelm](https://tradehelm.com).
-- 🌱 I’m currently working with [React](https://reactjs.org).
+- 🌱 I’m currently working with [React](https://reactjs.org) and [NextJS](https://nextjs.org/).
 - 🎧 I like mixing music every now and then.
 - 🏄 I like board sports like surfing, snowboarding and skating.
 
