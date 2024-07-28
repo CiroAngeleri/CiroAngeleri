@@ -1,5 +1,5 @@
 ## Hi there! It's Ciro
-I'm a Fullstack developer in love with [React](https://reactjs.org) and [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+I'm a Fullstack developer in love with [React](https://reactjs.org), [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) and [D3](https://d3js.org/). Currenty working at [New Relic](https://newrelic.com/) as a Data Visualization engineer.
 
 <a href="https://www.linkedin.com/in/ciro-angeleri/">
   <img align="left" alt="Ciro Angeleri LinkedIN" width="22px" style="margin-right: 10px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
